@@ -17,7 +17,6 @@ collections:
       - {label: "Cover Image", name: "cover_image", widget: "file", required: false}
       - {label: "Published", name: "published", widget: "boolean", default: true, required: false}
       - {label: "Tags", name: "tags", widget: "list", required: false}
-      - {label: "Time To Read", name: "timeToRead", widget: "string", required: false}
       - {label: "Canonical Url", name: "canonical_url", widget: "boolean", default: false, required: false}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Content", name: "content", widget: "markdown"}
