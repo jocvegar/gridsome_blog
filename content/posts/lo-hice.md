@@ -1,7 +1,7 @@
 ---
 title: Lo Hice?
 date: 2020-03-24T17:22:01.830Z
-cover_image: /uploads/bacon2.jpeg
+cover_image: ''
 published: true
 tags:
   - hi
