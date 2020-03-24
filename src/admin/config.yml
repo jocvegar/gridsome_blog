@@ -13,6 +13,9 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Excerpt", name: "excerpt", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "date"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Cover Image", name: "cover_image", widget: "string"}
+      - {label: "Published", name: "published", widget: "boolean", default: true}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "CanonicalUrl", name: "canonical_url", widget: "boolean", default: false}
+      - {label: "Description", name: "description", widget: "markdown"}
