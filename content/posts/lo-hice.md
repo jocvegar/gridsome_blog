@@ -1,11 +1,11 @@
 ---
 title: Lo Hice?
 date: 2020-03-24T17:22:01.830Z
+cover_image: /uploads/bacon2.jpeg
 published: true
 tags:
   - hi
   - kids
-timeToRead: '244'
 canonical_url: false
 description: >-
   "Hmmmmm esto me parece raro"
@@ -121,4 +121,5 @@ content: >-
   <p>Your eyes can deceive you. Don't trust them. As you wish. As you wish.
   Remember, a Jedi can feel the Force flowing through him. Hokey religions and
   ancient weapons are no match for a good blaster at your side, kid.</p>
+timeToRead: '244'
 ---
