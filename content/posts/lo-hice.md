@@ -5,8 +5,8 @@ published: true
 tags:
   - hi
   - kids
-timeToRead: '15'
-canonical_url: true
+timeToRead: '244'
+canonical_url: false
 description: >-
   "Hmmmmm esto me parece raro"
 
