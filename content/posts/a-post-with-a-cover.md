@@ -2,7 +2,7 @@
 title: A post with a cover image
 date: 2019-01-07T00:00:00.000Z
 cover_image: ./images/alexandr-podvalny-220262-unsplash.jpg
-published: false
+published: true
 canonical_url: false
 series: false
 tags:
